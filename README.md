@@ -1,7 +1,7 @@
 # PiProject
 
 
-Sure, here's an expanded idea for a Raspberry Pi-based desktop notification system with a clock:
+ Raspberry Pi-based desktop notification system with a clock:
 
 Project: Raspberry Pi Desktop Notification System with Clock
 
